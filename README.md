@@ -16,17 +16,18 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">About</a> •
+  <a href="#about">About</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#how-to-use">Roadmap</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#contributing">Contributing</a> •
   <a href="#license">License</a>
 </p>
 
 ![screenshot](document/demo.gif)
 
 ## About
-Icely Annotator is a tool for annotating software requirements.
+Icely Annotator is a tool for annotating software requirements, and generate static ontology of Icely Framework.
 
 This tool is largely based on the [brat annotation tool](http://brat.nlplab.org/) and [S-Case Requirements Annotation tool](https://github.com/s-case/requirements-annotation-tool)
 
@@ -75,7 +76,12 @@ If you'd like to give any of these a shot feel free to contribute.
 
 ## License
 
-MIT
+Copyright © 2019 [Amir Deljouyi](https://github.com/amirdeljouyi).  
+Icely Annotator is made available under the [MIT](https://github.com/IcelyFramework/icely-annotator/blob/main/LICENSE) licensed.
+
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome.  
+Feel free to check [issues page](https://github.com/IcelyFramework/icely-annotator/issues) if you want to contribute.
 
 ---
 

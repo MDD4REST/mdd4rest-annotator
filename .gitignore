@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Don't ever commit your settings
+config.py
+
+# Python remenants
+*.pyc
+*.pyo
+
+# Standard locations of data and server temporary files
+data/
+work/

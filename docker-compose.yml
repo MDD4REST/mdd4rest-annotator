@@ -1,0 +1,7 @@
+version: '2'
+services:
+  icely-annotator:
+    build: .
+    command: python standalone.py 8001 0.0.0.0
+    ports:
+      - "8001:8001"

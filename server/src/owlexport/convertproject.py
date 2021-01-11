@@ -76,7 +76,7 @@ class ReadProject:
                         non_blank_count += 1
             owlfiles, ttlfiles = [], []
             for i in range(1, non_blank_count + 1):
-                shutil.copy2('/var/www/html/brat/original_ontology/requirements.owl',
+                shutil.copy2('/app/icely-annotator/original_ontology/requirements.owl',
                              os.path.join(project_path, project_name, str(i) + '.owl'))
                 p = Project(os.path.join(
                     project_name, project_path + project_name), i)
@@ -92,7 +92,7 @@ class ReadProject:
                     project_path, project_name, str(i) + '.ttl'))
             return owlfiles, ttlfiles
         else:
-            shutil.copy2('/var/www/html/brat/original_ontology/requirements.owl',
+            shutil.copy2('/app/icely-annotator/original_ontology/requirements.owl',
                          project_path + project_name + '.owl')
             p = Project(project_name, project_path + project_name)
             add_project_to_ontology(p, os.path.join(

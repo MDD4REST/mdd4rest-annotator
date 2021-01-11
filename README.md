@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Anotation Tool for annotating software requirements.</h4>
+<h4 align="center">An Annotation Tool for annotating software requirements and generate static ontology.</h4>
 
 <p align="center">
   <img alt="Docker Image Version (latest semver)" src="https://img.shields.io/docker/v/icely/icely-annotator">

@@ -43,7 +43,7 @@ This tool is largely based on the [brat annotation tool](http://brat.nlplab.org/
 If you’d rather run the Icely Annotator from a Docker image, it is available on Docker Hub at [icely/icely-annotator](https://hub.docker.com/r/icely/icely-annotator).
 
 ### Building from source
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Python 3](https://www.python.org/downloads/) (which comes with [pip](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository

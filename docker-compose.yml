@@ -1,7 +1,7 @@
 version: '2'
 services:
   icely-annotator:
-    image: icely/icely-annotator:1.0.1
+    image: icely/icely-annotator:1.0.2
     build: .
     command: python standalone.py 8001 0.0.0.0
     ports:

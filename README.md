@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/IcelyFramework/icely-annotator"><img src="document/icicle.png" alt="Icely Annotator" width="200"></a>
+  <a href="https://github.com/IcelyFramework/icely-annotator"><img src="docs/icicle.png" alt="Icely Annotator" width="200"></a>
   <br>
   Icely Annotator
   <br>
@@ -17,30 +17,30 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#contributing">Contributing</a> •
+  <a href="#✨-key-features">Key Features</a> •
+  <a href="#🚀-how-to-use">How To Use</a> •
+  <a href="#☑-roadmap">Roadmap</a> •
+  <a href="#🤝-contributing">Contributing</a> •
   <a href="#license">License</a>
 </p>
 
-![screenshot](document/demo.gif)
+![screenshot](docs/demo.gif)
 
 ## About
-Icely Annotator is a tool for annotating software requirements, and generate static ontology of Icely Framework.
+Icely Annotator is a tool for annotating software requirements and generate static ontology of Icely Framework.
 
-This tool is largely based on the [brat annotation tool](http://brat.nlplab.org/) and [S-Case Requirements Annotation tool](https://github.com/s-case/requirements-annotation-tool)
+This tool is based mainly on the [brat annotation tool](http://brat.nlplab.org/) and [S-Case Requirements Annotation tool](https://github.com/s-case/requirements-annotation-tool).
 
 ## ✨ Key Features
 * Annotate Textual Requirement
-* Export Annotation to Static Ontoloty (.owl)
+* Export Annotation to Static Ontology (.owl)
 * Virtualize Textual Requirement
 * Auto-Annotate (In Progress)
 
 ## 🚀 How To Use
 
 ### Using Docker (Recommended)
-If you’d rather run the Icely Annotator from a Docker image, it is available on Docker Hub at [icely/icely-annotator](https://hub.docker.com/r/icely/icely-annotator).
+If you'd rather run the Icely Annotator from a Docker image, it is available on Docker Hub at [icely/icely-annotator](https://hub.docker.com/r/icely/icely-annotator).
 
 ### Building from source
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Python 3](https://www.python.org/downloads/) (which comes with [pip](http://npmjs.com)) installed on your computer. From your command line:
@@ -61,10 +61,10 @@ $ mkdir -p /app/icely-annotator/original_ontology/ && cp original_ontology/requi
 $ python standalone.py
 ```
 
-Note: for run server via apache see [brat documentation](https://brat.nlplab.org/installation.html)
+Note: for run server via Apache, [brat documentation](https://brat.nlplab.org/installation.html)
 
 ## ☑ Roadmap
-If you want to see a new feature feel free to create a new Issue. Here are some features which are either under way or planned:
+If you want to see a new feature feel free to create a new Issue. Here are some features which are either underway or planned:
 
 - [ ] [Auto-Annotation](https://github.com/IcelyFramework/icely-annotator/issues/1)
 
@@ -76,7 +76,7 @@ If you'd like to give any of these a shot feel free to contribute.
 
 ## License
 
-Copyright © 2019 [Amir Deljouyi](https://github.com/amirdeljouyi).  
+Copyright © 2021 [Amir Deljouyi](https://github.com/amirdeljouyi).  
 Icely Annotator is made available under the [MIT](https://github.com/IcelyFramework/icely-annotator/blob/main/LICENSE) licensed.
 
 ## 🤝 Contributing

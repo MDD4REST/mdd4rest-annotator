@@ -34,7 +34,7 @@ This tool is based mainly on the [brat annotation tool](http://brat.nlplab.org/)
 ## ✨ Key Features
 * Annotate Textual Requirement
 * Export Annotation to Static Ontology (.owl)
-* Virtualize Textual Requirement
+* Visualize Textual Requirement
 * Auto-Annotate (In Progress)
 
 ## 🚀 How To Use

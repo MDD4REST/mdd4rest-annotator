@@ -17,10 +17,10 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#✨-key-features">Key Features</a> •
-  <a href="#🚀-how-to-use">How To Use</a> •
-  <a href="#☑-roadmap">Roadmap</a> •
-  <a href="#🤝-contributing">Contributing</a> •
+  <a href="#user-content--key-features">Key Features</a> •
+  <a href="#user-content--how-to-use">How To Use</a> •
+  <a href="#user-content--roadmap">Roadmap</a> •
+  <a href="#user-content--contributing">Contributing</a> •
   <a href="#license">License</a>
 </p>
 
